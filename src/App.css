@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* ------------ my stuff ------------ */
+.poster {
+  margin:0 1em 1em 0;
+}

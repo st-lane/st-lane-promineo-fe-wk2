@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* ------------ my stuff ------------ */
+.poster {
+  margin:0 1em 1em 0;
+}
+
+.stars {
+  font-size: 3em;
+  font-weight: bold;
+  color: orangered;
+  line-height: 0rem;
+  top: 16px;
+  display: block;
+  position: relative;
+}
+
+td,th {
+  padding: 0.5em;
+  vertical-align:top;
+}
+
+.reviewForm label {
+  font-weight:bold;
+  text-align:right;
+  display: inline-block;
+  float:right;
+}
